@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalsinghdhami/)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-vishalsinghdhami-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalsinghdhami/)
+
 
 ### Languages
 
