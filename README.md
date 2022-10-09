@@ -1,4 +1,8 @@
 <h4>## नमस्ते 🙏</h4>
+[![](https://img.shields.io/badge/LinkedIn-vishalsinghdhami-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayushkumar25/)
+[![](https://img.shields.io/badge/Gmail-singhdhamivishalgmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:singhdhamivishal@gmail.com)
+[![](https://img.shields.io/badge/LeetCode-vishalsinghdhami-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.leetcode.com/vishalsinghdhami)
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
