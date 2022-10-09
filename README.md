@@ -1,4 +1,4 @@
-<h10> नमस्ते 🙏</h10>
+<h1> नमस्ते 🙏</h1>
 
 [![](https://img.shields.io/badge/Gmail-singhdhamivishalgmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:singhdhamivishal@gmail.com)
 
