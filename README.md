@@ -1,9 +1,9 @@
 <h4>## नमस्ते 🙏</h4>
-[![](https://img.shields.io/badge/LinkedIn-vishalsinghdhami-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayushkumar25/)
+
 [![](https://img.shields.io/badge/Gmail-singhdhamivishalgmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:singhdhamivishal@gmail.com)
 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalsinghdhami/)
 
 
 
